@@ -15,7 +15,8 @@
 This project serves as a detailed exploration of the sales performance, providing insightful data and critical assessments of strategies and areas for improvement. By analyzing various aspects of the sales data, I seek to identify patterns, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
 ![Dashboard](Power BI comprehensive overview)
-![PIZZA SALES ANALYSIS 2015 FINACIAL YEAR.pdf](https://github.com/Henry-Eze/Pizza-Sales-Analysis/files/13390011/PIZZA.SALES.ANALYSIS.2015.FINACIAL.YEAR.pdf)
+!![Screenshot (31)](https://github.com/Henry-Eze/Pizza-Sales-Analysis/assets/150622562/8c7136ae-8206-4047-8bb6-149af63c2f01)
+
 
 
 ### Data Sources
@@ -42,6 +43,9 @@ Exploratory Data Analysis (EDA) is an approach to analyzing datasets to summariz
 - Which pizza types and sizes are the most popular?
 - Which pizzas contribute the most to the revenue?
 - What are the peak times for orders during the day and which day of the week are the most orders placed?
+  [Dashboard](Quarterly Sales Overview)
+  ![Screenshot (32)](https://github.com/Henry-Eze/Pizza-Sales-Analysis/assets/150622562/3667e1ab-0713-44c8-ac82-4747c17940c4)
+
 
 ### Data Analysis
 In DAX (Data Analysis Expressions), several metrics and calculations can be performed to determine revenue by month, week, day of the week and hours of the day.
